@@ -6,6 +6,6 @@
  * found in the LICENSE file
  */
 'use strict';
-const toKababCase = require('./src');
+const toKebabCase = require('./src');
 
-module.exports = toKababCase;
+module.exports = toKebabCase;

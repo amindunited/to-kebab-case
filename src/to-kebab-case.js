@@ -7,7 +7,7 @@
  */
 'use strict';
 
-const toKababCase = function (originalName) {
+const toKebabCase = function (originalName) {
   let stringContentArray = [];
 
 	if ( originalName.indexOf('_') > 0) {
@@ -21,4 +21,4 @@ const toKababCase = function (originalName) {
   });
 }
 
-module.exports = toKababCase;
+module.exports = toKebabCase;
