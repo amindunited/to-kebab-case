@@ -1,0 +1,2 @@
+build.sh linguist-documentation
+*.js linguist-detectable
