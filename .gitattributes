@@ -1,2 +1,2 @@
-build.sh linguist-documentation
+build.sh linguist-vendored
 *.js linguist-detectable
